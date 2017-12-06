@@ -1,0 +1,63 @@
+button{
+	color:orange;
+	font-size: 13px;
+	background-color: black;
+	border:solid;
+	width: 	100px;
+	height: 30px;
+	margin-right: 20px;
+}
+
+input{
+	font-size: 50px;
+}
+
+.text{
+	font-size: 23px;
+	font-family: 'serif';
+	color: orange;
+}
+.text1{
+
+	font-family: 'arial';
+	color: orange;
+}
+
+p{
+	color:orange;
+
+}
+
+.imCustomClass{
+	text-decoration: underline;
+	color:yellow;
+}
+
+#audio{
+	display: none;
+}
+body{
+	overflow: auto;
+	background-color: #000000;
+}
+.but{
+	color:orange;
+	font-size: 15px;
+	background-color: black;
+	border:solid;
+	width: 50px;
+    border-radius:20px;
+    -webkit-border-radius:20px;    
+
+}
+.ton{
+	color:orange;
+	font-size: 20px;
+	background-color: black;
+	border:solid;
+	width: 	200px;
+	height: 30px;
+ 	border-radius:20px;
+    -webkit-border-radius:20px;    
+
+}
